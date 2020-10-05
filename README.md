@@ -8,3 +8,6 @@ https://github.com/naashonomics/py_web_projects/tree/master/csv_reader_without_p
 
 https://github.com/naashonomics/py_web_projects/tree/master/sqllite3_to_php_bootstrap_with_pagination 
 
+3> SQLlite3 Conditional Query [ Hedge Fund Data njected into sqllite3 , HTML , Bootsrap , PHP ]
+
+https://github.com/naashonomics/py_web_projects/tree/master/sqllite3_with_date_picker 
